@@ -1,0 +1,15 @@
+{
+  "name": "file-monitoring",
+  "version": "1.0.0",
+  "description": "file integrity monitoring system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Computer-security-group",
+  "license": "ISC",
+  "dependencies": {
+    "chokidar": "^3.5.3",
+    "ip": "^1.1.5"
+  }
+}
